@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: white;
+}
+
+#top-page{
+    width: 100%;
+    float: left;
+    background-color: yellow;  
+}
+
+
+
+#right-column img{
+    width: 500px;
+    margin-left:450px;
+    margin-top: 50px;
+}
+
+img#logo{
+    
+    position:fixed;
+    width: 150px;
+    bottom: 20px;
+    right: 10px;
+}
+
+
+#image-resize{
+    
+    width: 400px;
+    height: 350px;
+}
+
+#image-resize-2{
+    
+    width: 250px;
+    height: 350px;
+}
+
+#hair-resize{
+    
+    width: 200px;
+    height: 200px;
+}
+
+#hat-resize{
+    
+    width: 300px;
+    height: 300px;
+}
